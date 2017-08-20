@@ -1,1 +1,1 @@
-# capstone_project_2-_pitchfork.com_NLP_analysis
+# Capstone Project 2 - Pitchfork.com NLP Analysis
