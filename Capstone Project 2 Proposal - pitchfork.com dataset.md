@@ -1,4 +1,4 @@
-# Capstone Project 2 - pitchfork.com dataset
+# Capstone Project 2 - Pitchfork Dataset
 ## Michael Phillips
 
 ### 1. What is the problem you want to solve?
